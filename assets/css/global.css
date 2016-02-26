@@ -1,17 +1,59 @@
 body{
   font-family: 'Lato', sans-serif;
   font-weight:400;
+  background: url('../img/tulips'); 
+  background-size: cover;
 }
+.medium-blue-background{
+  background-color:#457B9D;
+}
+.light-blue-background{
+  background-color:#A8DADC;
+}
+.white-background{
+  background-color: #F1FAEE;
+}
+.pink-background{
+  background-color: #E63946;
+}
+.dark-blue-background{
+  background-color: #1D3557;
+}
+.light-blue-text{
+  color:#A8DADC;
+}
+.white-text{
+  color: #F1FAEE;
+}
+.pink-text{
+  color: #E63946;
+}
+.dark-blue-text{
+  color: #1D3557;
+}
+.medium-blue-text{
+  color:#457B9D;
+}
+
 /*HEADER*/
 nav{
   padding-top: 80px;
-  border-bottom: 5px solid black;
-  font-size: 20px;
-  margin: 0px 100px;
+  border-bottom: 2px solid white;
+  border-top: 2px solid white;
+  font-size: 15px;
+  margin: 25px 80px;
 }
-a{
+nav a{
   margin:50px;
+  color:white;
 }
 /*MAIN*/
+.jumbotron{
+  background-color:;
+}
+main{
+  height:450px;
+}
+
 
 /*FOOTER*/
