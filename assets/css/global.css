@@ -1,0 +1,17 @@
+body{
+  font-family: 'Lato', sans-serif;
+  font-weight:400;
+}
+/*HEADER*/
+nav{
+  padding-top: 80px;
+  border-bottom: 5px solid black;
+  font-size: 20px;
+  margin: 0px 100px;
+}
+a{
+  margin:50px;
+}
+/*MAIN*/
+
+/*FOOTER*/
